@@ -1,0 +1,22 @@
+{
+  "name": "monsterbattle",
+  "version": "0.1.0",
+  "description": "A simple game engine to battle with custom monsters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanilor53/monster-arena-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanilor53/monster-arena-web/issues"
+  },
+  "homepage": "https://github.com/Lanilor53/monster-arena-web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
